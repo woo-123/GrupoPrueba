@@ -5,7 +5,7 @@
 }
 
 .content{
-    background-image: linear-gradient(to bottom,rgba(255, 255, 255, 0.3),transparent),url("p1.png");
+    background-image: linear-gradient(to bottom,rgba(255, 255, 255, 0.3),transparent),url("/img/p1.png");
     background-size: cover;
     background-position: center;
     min-width: 300px;
