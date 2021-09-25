@@ -12,5 +12,7 @@ namespace GrupoPrueba.Data
             : base(options)
         {
         }
+        public DbSet<GrupoPrueba.Models.Catalogo> DataProducts { get; set; }
     }
+    
 }
