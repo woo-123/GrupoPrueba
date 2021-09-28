@@ -7554,19 +7554,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diego\\.nuget\\packages\\": {}
+    "C:\\Users\\Diego Carepoto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diego\\Desktop\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
+      "projectUniqueName": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-3\\GrupoPrueba\\GrupoPrueba.csproj",
       "projectName": "GrupoPrueba",
-      "projectPath": "C:\\Users\\diego\\Desktop\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
-      "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diego\\Desktop\\Programacion1\\GrupoPrueba\\GrupoPrueba\\obj\\",
+      "projectPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-3\\GrupoPrueba\\GrupoPrueba.csproj",
+      "packagesPath": "C:\\Users\\Diego Carepoto\\.nuget\\packages\\",
+      "outputPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-3\\GrupoPrueba\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Diego Carepoto\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -7637,7 +7637,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

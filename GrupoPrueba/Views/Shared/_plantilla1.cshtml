@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Orange Store</title>
     <link rel="stylesheet" href="~/css/ejemplopagina.css">
    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <script src="https://kit.fontawesome.com/ff59d8ddce.js" crossorigin="anonymous"></script>
@@ -42,9 +42,7 @@
                         <a class='nav-a'  asp-area="Identity" asp-page="/Account/Login">Login</a>
                     </li>
                 }
-                <li class='nav-item'> 
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Catalogo" asp-action="Index">Catalogo</a> 
-                </li>
+               
                 </ul>
                 
             </div>
@@ -52,7 +50,7 @@
         </div>
         <div class='categoria'>
             <ul class='cat-ul'>
-                <li class = "cat-li"><a>Procesadores</a></li>
+                <li class = "cat-li"><a  asp-controller="Catalogo" asp-action="Index">Procesadores</a></li>
                 <li class = "cat-li"><a>Tarjetas Graficas</a></li>
                 <li class = "cat-li"><a>Memoria ram</a></li>
                 <li class = "cat-li"><a>Fuente</a></li>
