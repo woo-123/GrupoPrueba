@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj": {}
+    "F:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj": {
+    "F:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
+        "projectUniqueName": "F:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
         "projectName": "GrupoPrueba",
-        "projectPath": "C:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\obj\\",
+        "projectPath": "F:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\usmp\\sexto ciclo\\Progra I\\Lab\\Clases\\usmp\\programacion 1\\GrupoPrueba\\GrupoPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
