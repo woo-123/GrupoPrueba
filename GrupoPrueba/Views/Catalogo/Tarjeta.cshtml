@@ -16,22 +16,24 @@
         <div id="products" class="mb-3">
           <div class="row">
             @foreach (var item in Model) {
-            <div class="col-sm-4">
-              <div class="card mb-3" style="margin-left: 10%; margin-right: 30%;" >
-                <div class="card-body">
-                  <div class="card-img-actions">
-                    <img class="img-responsive" width="96" height="150" style="margin-left:35%;" 
-                       src="/images/@item.ImagenName" alt="@item.ImagenName"  />
+              if(item.Id >= 5 && item.Id < 9){
+              <div class="col-sm-4">
+                <div class="card mb-3" style="margin-left: 10%; margin-right: 30%;" >
+                  <div class="card-body">
+                    <div class="card-img-actions">
+                      <img class="img-responsive" width="96" height="150" style="margin-left:35%;" 
+                        src="/img/@item.ImagenName" alt="@item.ImagenName"  />
+                    </div>
+                  </div>
+                  <div class="card-body">
+                    <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.descripcion)</p>
+                    <p class="card-text">@Html.DisplayFor(modelItem => item.Price) <b>soles </b></p>
+                    <a class="btn btn-primary" asp-action="Add" asp-route-id="@item.Id">Add</a>
                   </div>
                 </div>
-                <div class="card-body">
-                  <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
-                  <p class="card-text">@Html.DisplayFor(modelItem => item.descripcion)</p>
-                  <p class="card-text">@Html.DisplayFor(modelItem => item.Price) <b>soles </b></p>
-                  <a class="btn btn-primary" asp-action="Add" asp-route-id="@item.Id">Add</a>
-                </div>
               </div>
-            </div>
+              }
             }
          </div>
         </div>

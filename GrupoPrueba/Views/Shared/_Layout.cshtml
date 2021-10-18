@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - GrupoPrueba</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/ejemplopagina.css">
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <body>
@@ -19,13 +20,16 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-dark cat">Catalogo</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="plantilla1">Plantilla</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Nosotros">Nosotros</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="plantilla1">Carrito</a>
                         </li>
                     </ul>
                     <partial name="_LoginPartial" />
@@ -33,6 +37,19 @@
             </div>
         </nav>
     </header>
+    <div class='categoria'>
+            <ul class='cat-ul'>
+                <li class = "cat-li"><a  asp-controller="Catalogo" asp-action="Index">Procesadores</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Tarjeta">Tarjetas Graficas</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Memoria">Memoria ram</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Fuente">Fuente</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Disco">Disco Duro</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="SSD">.SSD</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Case">Case</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Placa">Placa Madre</a></li>
+                <li class = "cat-li"><a asp-controller="Catalogo" asp-action="Pc">Pc Armadas</a></li>
+            </ul>
+        </div>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -46,6 +63,7 @@
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/app.js">
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

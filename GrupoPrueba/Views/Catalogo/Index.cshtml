@@ -16,12 +16,13 @@
         <div id="products" class="mb-3">
           <div class="row">
             @foreach (var item in Model) {
+             if(item.Id < 5 ){ 
             <div class="col-sm-4">
               <div class="card mb-3" style="margin-left: 10%; margin-right: 30%;" >
                 <div class="card-body">
                   <div class="card-img-actions">
                     <img class="img-responsive" width="96" height="150" style="margin-left:35%;" 
-                       src="/images/@item.ImagenName" alt="@item.ImagenName"  />
+                       src="/img/@item.ImagenName" alt="@item.ImagenName"  />
                   </div>
                 </div>
                 <div class="card-body">
@@ -32,6 +33,7 @@
                 </div>
               </div>
             </div>
+            }
             }
          </div>
         </div>
