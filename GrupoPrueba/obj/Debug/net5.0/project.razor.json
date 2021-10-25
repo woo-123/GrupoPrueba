@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
+  "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\GrupoPrueba.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,122 +15619,122 @@
   "RootNamespace": "GrupoPrueba",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\SSD.cshtml",
-      "TargetPath": "Views\\Catalogo\\SSD.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Memoria.cshtml",
-      "TargetPath": "Views\\Catalogo\\Memoria.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Nosotros.cshtml",
-      "TargetPath": "Views\\Home\\Nosotros.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Placa.cshtml",
-      "TargetPath": "Views\\Catalogo\\Placa.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Index.cshtml",
-      "TargetPath": "Views\\Catalogo\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Fuente.cshtml",
-      "TargetPath": "Views\\Catalogo\\Fuente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Case.cshtml",
-      "TargetPath": "Views\\Catalogo\\Case.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Disco.cshtml",
-      "TargetPath": "Views\\Catalogo\\Disco.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Nosotros.cshtml",
+      "TargetPath": "Views\\Home\\Nosotros.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Tarjeta.cshtml",
-      "TargetPath": "Views\\Catalogo\\Tarjeta.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Disco.cshtml",
+      "TargetPath": "Views\\Catalogo\\Disco.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Pc.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Pc.cshtml",
       "TargetPath": "Views\\Catalogo\\Pc.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\diego\\Desktop\\Fia 9\\Programacion1\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Tarjeta.cshtml",
+      "TargetPath": "Views\\Catalogo\\Tarjeta.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Fuente.cshtml",
+      "TargetPath": "Views\\Catalogo\\Fuente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\SSD.cshtml",
+      "TargetPath": "Views\\Catalogo\\SSD.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Placa.cshtml",
+      "TargetPath": "Views\\Catalogo\\Placa.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Case.cshtml",
+      "TargetPath": "Views\\Catalogo\\Case.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Index.cshtml",
+      "TargetPath": "Views\\Catalogo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Catalogo\\Memoria.cshtml",
+      "TargetPath": "Views\\Catalogo\\Memoria.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\diego\\Desktop\\GrupoPrueba\\GrupoPrueba\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
