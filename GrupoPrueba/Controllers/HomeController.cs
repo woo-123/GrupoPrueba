@@ -28,10 +28,7 @@ namespace GrupoPrueba.Controllers
         {
             return View();
         }
-        public IActionResult Nosotros()
-        {
-            return View();
-        }
+       
          
         
 
