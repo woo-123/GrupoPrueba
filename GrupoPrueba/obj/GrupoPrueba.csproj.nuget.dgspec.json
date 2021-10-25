@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\GrupoPrueba.csproj": {}
+    "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\GrupoPrueba.csproj": {}
   },
   "projects": {
-    "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\GrupoPrueba.csproj": {
+    "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\GrupoPrueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\GrupoPrueba.csproj",
+        "projectUniqueName": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\GrupoPrueba.csproj",
         "projectName": "GrupoPrueba",
-        "projectPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\GrupoPrueba.csproj",
+        "projectPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\GrupoPrueba.csproj",
         "packagesPath": "C:\\Users\\Diego Carepoto\\.nuget\\packages\\",
-        "outputPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\obj\\",
+        "outputPath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego Carepoto\\AppData\\Roaming\\NuGet\\NuGet.Config"

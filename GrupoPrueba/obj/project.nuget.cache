@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9gjrOm+galvNO1uVr5T0zDEJsgfT3XAbDY5Tli9vWKUzSQb+fvi1/RQuyXHZcNFlTpY7A/1shgwKQ0+U9JfihA==",
+  "dgSpecHash": "iayt6RGdw7bBAABEhWD/5XoJjAly/j5jkkWI2cejfuRIVLolWefTo358QqEKPComEXPbAgArdqZa1hOp+A9QPA==",
   "success": true,
-  "projectFilePath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-7\\GrupoPrueba\\GrupoPrueba.csproj",
+  "projectFilePath": "D:\\Onedrive USMP\\OneDrive - Universidad de San Martin de Porres\\Universidad\\2021-2\\PROGRAMACIÓN 1\\Repositorios\\GrupoPrueba-8\\GrupoPrueba\\GrupoPrueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego Carepoto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Diego Carepoto\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
